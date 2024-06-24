@@ -15,7 +15,7 @@ Author: Eloi Knecht
     Header template was copied from scriptrunner.com
     Build in PS1-version 5.1.22621.3672
 .COMPONENT 
-   Please downlode BurntToast and change the Usersting in the 42 line to yours.
+   Please downlode BurntToast and change the Usersting in the 42 line to yours. Also change all paths for the images
 .LINK 
 https://github.com/Windos/BurntToast.
 https://open-meteo.com/
