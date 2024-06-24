@@ -39,7 +39,7 @@ Import-Module BurntToast # (Install-Module -Name BurntToast) do not forget to do
 do {
     $user = (Get-WmiObject -Class Win32_ComputerSystem).UserName
     if ($user -ne "") {
-        if (-not($user -eq "Studio2Eloi\eloik")) {exit}   
+        if (-not($user -eq "put in a user!!!")) {exit}   
     } else {
         Start-Sleep -Seconds 5
     }
